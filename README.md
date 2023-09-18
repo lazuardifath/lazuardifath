@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/lazuardifath/lazuardifath/main/header.png)](https://github.com/lazuardifath)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazuardifath)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazuardifath&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **lazuardifath/lazuardifath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
