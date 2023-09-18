@@ -1,3 +1,7 @@
+Hi There!~👋
+
+As a frontend developer with 2+ years of experience, I have found my calling in the world of information technology since high school. I also learn some backend dev things to improve my skills. I learn backend to become fullstack developer some day. My fascination with computers and technology led me to dive headfirst into the IT world with great enthusiasm, and I fell in ❤️️ with web development since I graduate from high school. Throughout my career journey, I have always been highly motivated to learn quickly and accurately. I embrace new challenges and eagerly embrace emerging technologies as an enterprise person, emphasizing the importance of grasping the basics of every evolving technology I encounter to build robust and reliable solutions.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazuardifath&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazuardifath&theme=radical&card_width=375)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
