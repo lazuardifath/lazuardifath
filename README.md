@@ -74,7 +74,7 @@ As a frontend developer with 2+ years of experience, I have found my calling in 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lazuardifath&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=lazuardifath&theme=radical&card_width=375" align="center" /></div>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=-1" align="center" /></div>
+
 
  
 <br/>  
